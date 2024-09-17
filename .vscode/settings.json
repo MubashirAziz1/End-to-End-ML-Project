@@ -1,0 +1,14 @@
+{
+    "editor.foldingImportsByDefault": true,
+    "python.testing.cwd": "${End_to_End}/src",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./venv",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+
+}
